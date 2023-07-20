@@ -1,0 +1,32 @@
+body {
+  color: rgb(84, 53, 17);
+  margin: 60px auto;
+  max-width: 800px;
+  background-color: beige;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.links {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(255, 170, 0);
+  font-weight: 700;
+}
+
+a:visited {
+  color: rgb(255, 170, 0);
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.email {
+  color: rgb(255, 170, 0);
+}
